@@ -52,6 +52,16 @@ Please note that:
 - Being "curious" if it changed after a patch with no evidence at all is not good reason.  
 
 ### Will you research [x] for me?  
+Probably not, unless I also want to know the information. Many requests I get already have an answer, or the answer isn't well-explained, so you should probably look elsewhere first or check in-game yourself if it's possible. This doesn't mean I won't ever research it. I may stumble upon the logic for it later, or research it as a gateway to something else.
+
+### Why don't you want to research spawning in Scarlet/Violet?  
+Spawning is very complex. The rate of anything spawning depends on many factors such as the location, spawner type, biome type, time of day, version, etc. Additionally, the spawners in an area are heterogeneous; they can be of different types and spawn different things! This is why it's hard for any fansite to provide accurate spawn rates; it has to be calculated _per spawner_, and it will vary depending on what part of the area and what spawners you're sampling.
+
+There are about 36k spawners in Area Zero, 8.6k in Kitakami, and 72k spawners in the main part of Paldea. Calculating for every single spawner is a huge task, not to mention presenting it in a way that doesn't crash a browser and so people can use it.
+
+If I want to debug spawning or outbreaks, there are so many moving pieces that it's hard to tell what exactly is happening. Even now, it's not fully understood how outbreaks are selected. I've only done some mass empirical tests on version 1.3.2 (before DLC) that showed that Encounter Power and the location you stand when the day advances definitely both mattered.
+
+In the end, it's a lot of work for information that's not going to improve what's already out there, and I don't have much interest in a topic that is high difficulty and low impact. I would rather spend time on something interesting to me, important to the community, or simple. It's not to say I'll never touch it, but I won't go out of my way to do it.
 No. The vast majority of people chasing me down to ask me to research something are asking something that is available on Google, or would require way more time than a paid job. You should probably look elsewhere first or check in-game yourself if it's possible. This doesn't mean I won't ever research it. I may stumble upon the logic for it later, or research it as a gateway to something else.
 
 ### Can I pay you to research [x] for me?  
